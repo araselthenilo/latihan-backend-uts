@@ -134,7 +134,7 @@ mysql -u username_mysql -p nama_db < path/to/backup.sql
 
 4. **Buat dan isi `.env`**
 
-Buat file `.env` di root proyek dan tambahkan (ganti sesuai kebutuhan):
+Buat file `.env`, atau ganti nama dan gunakan `.env.example` di root proyek kemudian tambahkan (ganti sesuai kebutuhan):
 
 ```
 HOST=nama_host_anda
