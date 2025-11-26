@@ -35,7 +35,7 @@ Use MySQL Workbench or CLI to import the SQL dump file `latihan-backend-uts.sql`
 # create the database (if needed)
 mysql -u your_mysql_user -p -e "CREATE DATABASE IF NOT EXISTS your_db_name;"
 # import the dump
-mysql -u your_mysql_user -p your_db_name < path/to/your_db_name.sql
+mysql -u your_mysql_user -p your_db_name < path/to/latihan-backend-uts.sql
 ```
 
 4. **Create and fill `.env`**
@@ -129,7 +129,7 @@ Gunakan MySQL Workbench atau CLI untuk mengimpor file dump SQL `latihan-backend-
 # buat database jika perlu
 mysql -u username_mysql -p -e "CREATE DATABASE IF NOT EXISTS nama_db;"
 # impor dump
-mysql -u username_mysql -p nama_db < path/to/backup.sql
+mysql -u username_mysql -p nama_db < path/to/latihan-backend-uts.sql
 ```
 
 4. **Buat dan isi `.env`**
