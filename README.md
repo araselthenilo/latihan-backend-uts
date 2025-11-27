@@ -1,4 +1,7 @@
 # BE Midterm Practice — README
+## Oleh:
+### Arasel Bezaleel Thenilo
+### I Putu Arya Suta Dharamaja
 
 ## English
 
