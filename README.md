@@ -67,7 +67,7 @@ Server should be available at `http://localhost:3000` (or the `PORT` you set).
 
 ### API overview
 
-Brief list of available routes:
+Complete list of available routes:
 
 * `POST /auth/signup` — register new user
 * `POST /auth/sigin` — login and receive JWT and cookie
@@ -161,7 +161,7 @@ Server akan berjalan di `http://localhost:3000` (atau `PORT` yang Anda atur).
 
 ### Ringkasan API
 
-Daftar singkat route:
+Daftar lengkap route yang tersedia:
 
 * `POST /auth/signup` — registrasi user baru
 * `POST /auth/sigin` — login and terima JWT and cookie
